@@ -1,0 +1,504 @@
+2021-04-08 18:39:11,313 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-08 18:39:11,751 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-08 18:39:11,899 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-08 18:39:13,398 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-10 18:04:54,067 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-10 18:04:54,477 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-10 18:04:54,617 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-10 18:04:56,072 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-10 22:24:20,969 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-10 22:24:21,185 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-10 22:24:21,319 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-10 22:24:23,669 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-10 22:42:06,537 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-10 22:42:06,692 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-10 22:42:06,733 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-10 22:42:08,593 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-14 14:42:58,580 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-14 14:42:59,189 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-14 14:42:59,349 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-14 14:43:01,260 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-14 14:45:19,738 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-14 14:45:19,967 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-14 14:45:20,105 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-14 14:45:21,709 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-16 14:32:25,795 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:32:26,012 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:32:28,453 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:32:28,568 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:32:31,232 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:32:31,360 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:32:33,952 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:32:34,076 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:34:24,677 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:34:24,822 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:34:27,095 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:34:27,201 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:34:29,330 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:34:29,448 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:34:31,385 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:34:31,506 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:37:42,502 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:37:42,653 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:37:44,718 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:37:44,834 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:37:47,201 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:37:47,344 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:37:49,484 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:37:49,586 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:52:43,667 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:52:43,845 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:52:46,439 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:52:46,602 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:52:46,715 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:52:48,827 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:52:48,967 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:52:49,081 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:52:51,332 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:52:51,476 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:52:51,604 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:52:53,425 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:56:59,119 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:56:59,311 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:57:04,995 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:57:05,274 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:57:05,502 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:57:10,156 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:57:10,293 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:57:10,391 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:57:15,389 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 14:57:15,540 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-16 14:57:15,642 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-16 14:57:21,046 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-16 15:36:19,789 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-16 15:36:20,120 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-16 15:36:20,291 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-16 15:36:20,926 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-16 15:40:12,519 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-16 15:40:13,030 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-16 15:40:13,286 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-16 15:40:14,788 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-16 16:11:05,986 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-16 16:11:06,247 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-16 16:11:06,330 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-16 16:11:08,227 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-16 16:13:04,149 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-16 16:13:04,553 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-16 16:13:04,775 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-16 16:13:06,694 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-16 16:16:40,985 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-16 16:16:41,289 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-16 16:16:41,461 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-16 16:16:43,131 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-22 22:26:29,374 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:26:29,547 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:26:35,046 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:26:35,186 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:26:35,266 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:26:35,481 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:26:38,605 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:26:38,730 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:26:38,821 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:26:38,937 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:26:39,067 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:26:39,310 [main] INFO com.inetbanking.testcases.Baseclass - Entered the mailaddress
+2021-04-22 22:26:39,417 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 22:31:28,221 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:31:28,398 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:31:33,937 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:31:34,091 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:31:34,179 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:31:34,410 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:31:37,527 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:31:37,661 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:31:37,765 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:31:37,893 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:31:38,012 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:31:38,240 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 22:31:38,327 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 22:39:39,544 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:39:39,707 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:39:45,496 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:39:45,634 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:39:45,716 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:39:45,913 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:39:49,052 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:39:49,162 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:39:49,266 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:39:49,383 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:39:49,501 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:39:49,734 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 22:39:49,858 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 22:42:04,376 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:42:04,627 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:42:09,964 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:42:10,112 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:42:10,198 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:42:10,430 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:42:13,554 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:42:13,678 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:42:13,778 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:42:13,900 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:42:14,031 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:42:14,247 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 22:42:14,336 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 22:43:11,904 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:43:12,047 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:43:17,714 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:43:17,857 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:43:17,950 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:43:18,193 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:43:21,315 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:43:21,505 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:43:21,610 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:43:21,734 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:43:21,847 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:43:25,077 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 22:43:25,162 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 22:57:05,194 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 22:57:05,428 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 22:57:10,696 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 22:57:10,851 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 22:57:10,947 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 22:57:11,211 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 22:57:14,336 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 22:57:14,450 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 22:57:14,551 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 22:57:14,668 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 22:57:14,793 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 22:57:18,007 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 22:57:18,098 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 23:02:20,351 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 23:02:20,489 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 23:02:25,798 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 23:02:25,944 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 23:02:26,031 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 23:02:26,268 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 23:02:29,398 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 23:02:29,516 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 23:02:29,611 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 23:02:29,736 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 23:02:29,853 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 23:02:29,985 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-22 23:02:30,097 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 23:02:30,198 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 23:09:50,015 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 23:09:50,180 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 23:09:55,600 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 23:09:55,792 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 23:09:55,916 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 23:09:56,143 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 23:09:59,259 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 23:09:59,368 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 23:09:59,453 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 23:09:59,553 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 23:09:59,657 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 23:09:59,767 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-22 23:09:59,863 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 23:09:59,952 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-22 23:13:28,190 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-22 23:13:28,348 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-22 23:13:33,798 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-22 23:13:33,937 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-22 23:13:34,026 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-22 23:13:34,223 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-22 23:13:37,356 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-22 23:13:37,507 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-22 23:13:37,612 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-22 23:13:37,734 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-22 23:13:37,856 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-22 23:13:38,013 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-22 23:13:38,118 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-22 23:13:39,291 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-23 11:21:57,070 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-23 11:21:57,406 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-23 11:21:57,554 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-23 11:21:58,796 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-23 11:22:07,359 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-23 11:22:07,548 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-23 11:22:12,917 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-23 11:22:13,074 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-23 11:22:13,174 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-23 11:22:13,423 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-23 11:22:16,546 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-23 11:22:16,735 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-23 11:22:16,850 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-23 11:22:17,005 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-23 11:22:17,133 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-23 11:22:17,276 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-23 11:22:17,400 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-23 11:22:17,870 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-23 11:22:29,088 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-23 11:22:29,221 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-23 11:22:34,292 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-23 11:22:34,455 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-23 11:22:34,601 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-23 11:22:40,072 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-23 11:22:40,239 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-23 11:22:40,371 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-23 11:22:45,537 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-23 11:22:45,662 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-23 11:22:45,768 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-23 11:22:50,630 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-26 22:03:07,363 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-26 22:03:07,816 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-26 22:03:07,951 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-26 22:03:09,480 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-26 22:03:16,178 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-26 22:03:16,319 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-26 22:03:21,377 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-26 22:03:21,545 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-26 22:03:21,627 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-26 22:03:21,835 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-26 22:03:24,965 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-26 22:03:25,100 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-26 22:03:25,218 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-26 22:03:25,353 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-26 22:03:25,478 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-26 22:03:25,626 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-26 22:03:25,726 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-26 22:03:26,247 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-26 22:03:38,854 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-26 22:03:38,961 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-26 22:03:43,864 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-26 22:03:44,001 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-26 22:03:44,114 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-26 22:03:50,039 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-26 22:03:50,151 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-26 22:03:50,257 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-26 22:03:56,170 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-26 22:03:56,291 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-26 22:03:56,398 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-26 22:04:01,865 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 11:33:02,600 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-27 11:33:03,626 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-27 11:33:03,980 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-27 11:33:06,707 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-27 11:33:14,022 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-27 11:33:14,165 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-27 11:33:20,502 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-27 11:33:20,659 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-27 11:33:20,749 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-27 11:33:21,047 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-27 11:33:24,176 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-27 11:33:24,309 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-27 11:33:24,405 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-27 11:33:24,519 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-27 11:33:24,632 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-27 11:33:24,765 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-27 11:33:24,887 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-27 11:33:25,391 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-27 11:33:39,501 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 11:33:39,657 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 11:33:45,403 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 11:33:45,516 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 11:33:45,619 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 11:33:51,350 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 11:33:51,459 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 11:33:51,568 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 11:33:56,494 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 11:33:56,610 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 11:33:56,713 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 11:34:03,244 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:13:00,525 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-27 12:13:01,275 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-27 12:13:01,505 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-27 12:13:05,500 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-27 12:13:12,802 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-27 12:13:12,979 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-27 12:13:18,935 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-27 12:13:19,104 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-27 12:13:19,190 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-27 12:13:19,394 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-27 12:13:22,515 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-27 12:13:22,619 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-27 12:13:22,703 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-27 12:13:22,804 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-27 12:13:22,913 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-27 12:13:23,035 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-27 12:13:23,140 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-27 12:13:24,641 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-27 12:13:36,810 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:13:36,921 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:13:42,547 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:13:42,709 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:13:42,855 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:13:48,225 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:13:48,380 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:13:48,486 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:13:53,494 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:13:53,633 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:13:53,757 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:13:59,018 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:23:45,805 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:23:46,004 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:23:51,094 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:23:51,285 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:23:51,411 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:23:56,687 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:23:56,825 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:23:56,950 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:24:03,454 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:24:03,851 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 12:24:04,082 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 12:24:10,060 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 12:24:12,001 [AsyncHttpClient-1-1] WARN io.netty.util.HashedWheelTimer - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:341)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:416)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:672)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:747)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:472)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+2021-04-27 14:18:47,870 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:18:48,025 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:18:53,486 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:18:53,767 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:18:53,875 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:18:59,052 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:18:59,170 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:18:59,271 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:19:04,945 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:19:05,058 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:19:05,154 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:19:11,723 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:34:27,288 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:34:27,420 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:34:33,540 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:34:33,666 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:34:33,765 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:34:39,213 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:34:39,317 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:34:39,411 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:34:44,685 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:34:44,799 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:34:44,906 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:34:50,183 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:40:43,595 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:40:43,732 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:40:51,535 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:40:51,662 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:40:51,759 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:40:59,599 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:40:59,708 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:40:59,804 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:41:07,152 [main] INFO com.inetbanking.testcases.Baseclass - Login passed
+2021-04-27 14:41:14,351 [main] INFO com.inetbanking.testcases.Baseclass - user id provided
+2021-04-27 14:41:14,452 [main] INFO com.inetbanking.testcases.Baseclass - password given
+2021-04-27 14:41:21,723 [main] WARN com.inetbanking.testcases.Baseclass - Login failed
+2021-04-27 14:59:52,094 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-27 14:59:52,379 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-27 14:59:52,496 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-27 14:59:54,260 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-27 15:00:00,770 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-27 15:00:00,981 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-27 15:00:07,523 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-27 15:00:07,668 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-27 15:00:07,760 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-27 15:00:07,956 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-27 15:00:11,065 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-27 15:00:11,169 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-27 15:00:11,250 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-27 15:00:11,360 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-27 15:00:11,456 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-27 15:00:11,565 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-27 15:00:11,650 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-27 15:00:12,088 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-27 15:01:28,014 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-27 15:01:28,382 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-27 15:01:28,544 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-27 15:01:30,312 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-27 15:01:35,986 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-27 15:01:36,127 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-27 15:01:41,621 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-27 15:01:41,736 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-27 15:01:41,811 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-27 15:01:41,989 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-27 15:01:45,106 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-27 15:01:45,229 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-27 15:01:45,349 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-27 15:01:45,533 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-27 15:01:45,668 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-27 15:01:45,807 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-27 15:01:45,920 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-27 15:01:47,276 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-27 19:44:51,220 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-27 19:44:51,544 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-27 19:44:51,674 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-27 19:44:53,505 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-27 19:44:59,272 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-27 19:44:59,406 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-27 19:45:06,128 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-27 19:45:06,269 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-27 19:45:06,359 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-27 19:45:06,572 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-27 19:45:09,921 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-27 19:45:10,165 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-27 19:45:10,322 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-27 19:45:10,476 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-27 19:45:10,627 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-27 19:45:10,793 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-27 19:45:10,953 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-27 19:45:11,508 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-28 16:06:42,453 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-28 16:06:43,216 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-28 16:06:43,368 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-28 16:06:45,605 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-28 16:06:52,311 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-28 16:06:52,433 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-28 16:06:57,894 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-28 16:06:58,009 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-28 16:06:58,094 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-28 16:06:58,297 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-28 16:07:03,175 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-28 16:07:03,436 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-28 16:07:03,655 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-28 16:07:03,949 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-28 16:07:04,364 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-28 16:07:04,686 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-28 16:07:04,920 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-28 16:07:06,553 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-28 16:40:33,089 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-28 16:40:33,618 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-28 16:40:33,823 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-28 16:40:35,884 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-28 16:40:43,917 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-28 16:40:44,073 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-28 16:40:49,555 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-28 16:40:49,734 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-28 16:40:49,830 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-28 16:40:50,077 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-28 16:40:53,196 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-28 16:40:53,350 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-28 16:40:53,522 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-28 16:40:53,658 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-28 16:40:53,784 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-28 16:40:53,931 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-28 16:40:54,054 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-28 16:40:55,365 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
+2021-04-28 22:27:56,931 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-28 22:27:57,219 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-28 22:27:57,306 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-28 22:27:59,381 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-28 22:36:55,682 [main] INFO com.inetbanking.testcases.Baseclass - url is opened
+2021-04-28 22:36:56,051 [main] INFO com.inetbanking.testcases.Baseclass - username is entered
+2021-04-28 22:36:56,150 [main] INFO com.inetbanking.testcases.Baseclass - password is entered
+2021-04-28 22:36:58,088 [main] INFO com.inetbanking.testcases.Baseclass - App opened
+2021-04-28 22:37:05,255 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Username
+2021-04-28 22:37:05,369 [main] INFO com.inetbanking.testcases.Baseclass - Entered password
+2021-04-28 22:37:10,806 [main] INFO com.inetbanking.testcases.Baseclass - Button Clicked
+2021-04-28 22:37:10,902 [main] INFO com.inetbanking.testcases.Baseclass - enterd cust.name
+2021-04-28 22:37:10,973 [main] INFO com.inetbanking.testcases.Baseclass - Selected Gender
+2021-04-28 22:37:11,185 [main] INFO com.inetbanking.testcases.Baseclass - Selected the DOB
+2021-04-28 22:37:14,267 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Address
+2021-04-28 22:37:14,346 [main] INFO com.inetbanking.testcases.Baseclass - Selected the city
+2021-04-28 22:37:14,422 [main] INFO com.inetbanking.testcases.Baseclass - Selected the state
+2021-04-28 22:37:14,506 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Pinno
+2021-04-28 22:37:14,592 [main] INFO com.inetbanking.testcases.Baseclass - Entered the Ph.no
+2021-04-28 22:37:14,710 [main] INFO com.inetbanking.testcases.Baseclass - Entered the email
+2021-04-28 22:37:14,789 [main] INFO com.inetbanking.testcases.Baseclass - Entered the password
+2021-04-28 22:37:16,696 [main] INFO com.inetbanking.testcases.Baseclass - Clicked the submit button
